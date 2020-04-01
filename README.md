@@ -21,4 +21,4 @@ Optionnels:
 
 Misc
 ----
-Même si il a été conçu en tant qu'exemple pour Parcoursup, le code est sous license MIT. Il est ouverte à toute copie ou modification de son code source
+Même si il a été conçu en tant qu'exemple pour Parcoursup, le code est sous license MIT. Il est ouvert à toute copie ou modification de son code source.
